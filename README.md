@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Reiner Rafa Kurnia Putra!
 
-<!--
-**Strangers0705/Strangers0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student at Universitas Multimedia Nusantara.
 
-Here are some ideas to get you started:
+I'm interested in software development, embedded systems, Internet of Things (IoT), and machine learning. I enjoy exploring technology and developing projects that combine software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming Languages:** Python, C/C++, JavaScript, PHP, C#
+- **Databases:** MySQL, PostgreSQL, SQL Server
+- **Technologies:** ESP32, Node.js, TensorFlow, Supabase
+- **Tools:** Visual Studio, VS Code, Jupyter Notebook
+
+## Featured Projects
+
+- **Smart Aquarium Feeder** – IoT-based aquarium monitoring and automatic feeding system.
+- **Smart Rep Counter & AI Trainer** – Embedded fitness system with automatic repetition counting.
+- **Smart Safety Helmet** – IoT-based safety monitoring system using ESP32 and sensors.
+- **Fraud Detection Model Comparison** – Machine learning project comparing classification algorithms.
+
+## Connect with Me
+
+- **LinkedIn:** [Reiner Rafa Kurnia Putra](https://www.linkedin.com/in/reiner-rafa-kurnia-putra-09a18928a/)
+- **Email:** reiner.rafa05@gmail.com
